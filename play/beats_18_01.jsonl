@@ -430,3 +430,6 @@
 {"n":430,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the Underpass. Nobody past the east mouth. We hold in 8 steps. Direct on the left lane, open."}
 {"n":431,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass east mouth. Bess keeps the plywood for the hold. 2 steps, direct on the left lane, open."}
 {"n":432,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east mouth. direct left open. 3 steps. The plywood stays for the hold."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Mast yard. Nobody past the east mouth. We hold in 4 steps. Direct on the left lane, open."}
+{"n":434,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard east mouth. Matt keeps the plywood for the hold. 5 steps, direct on the left lane, open."}
+{"n":435,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east mouth. direct left open. 6 steps. The plywood stays for the hold."}
