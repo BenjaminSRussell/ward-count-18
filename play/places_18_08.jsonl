@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. direct left open. 8 steps. The lamp stays for the hold."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west dock. We hold in 2 steps. Direct on the left lane, open."}
 {"n":103,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the lamp for the hold. 3 steps, direct on the left lane, open."}
+{"n":104,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. direct left open. 4 steps. The lamp stays for the hold."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at the Lot. Nobody past the west dock. We hold in 5 steps. Direct on the left lane, open."}
+{"n":106,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot west dock. Matt keeps the lamp for the hold. 6 steps, direct on the left lane, open."}
