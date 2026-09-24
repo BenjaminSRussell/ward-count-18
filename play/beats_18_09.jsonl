@@ -899,3 +899,6 @@
 {"n":899,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Switchyard. Nobody past the east dock. We hold in 7 steps. Direct on the left lane, open."}
 {"n":900,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
 {"n":901,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. direct left open. 2 steps. The barrel stays for the hold."}
+{"n":902,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Switchyard. Nobody past the east dock. We hold in 3 steps. Direct on the left lane, open."}
+{"n":903,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east dock. Bess keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
+{"n":904,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east dock. direct left open. 5 steps. The barrel stays for the hold."}
